@@ -1,7 +1,7 @@
-### Hi there 👋
-My name Bulat. I am frontend-developer
+### Привет. 👋
+ Меня зовут Булат, я frontend-разработчик.
 <hr>
-<h3>About me</h3>
+<h3>Обо мне</h3>
 <ul>
   <li>
     <img src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/programming-developer-backend-laptop-algorithm-256.png" style="width:16px"/>
@@ -17,7 +17,7 @@ My name Bulat. I am frontend-developer
   </li>
 </ul>
 <hr>
-<h3>Languages and tools</h3>
+<h3>Умения и навыки</h3>
 <div>
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" style="height:50px" title="Javascript"/>
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" style="height:50px" title="HTML"/>
@@ -32,6 +32,6 @@ My name Bulat. I am frontend-developer
 <img src="https://nx.dev/documentation/shared/jest-logo.png" style="height:50px" title="Jest"/>
 </div>
 <hr>
-<h3>Contact me</h3>
+<h3>Напиши мне</h3>
 <a href="https://t.me/Alexey_Gunin"><img src="https://eam.su/wp-content/uploads/tg.png" alt="telegram" height=50/></a>
 
