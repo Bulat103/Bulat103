@@ -32,6 +32,9 @@
 <img src="https://nx.dev/documentation/shared/jest-logo.png" style="height:50px" title="Jest"/>
 </div>
 <hr>
+<h3>Последние проекты</h3>
+<img src="https://media.giphy.com/media/KEPCpHVmOHcWdInmN5/giphy.gif" width="400" height="200"/>
+<hr>
 <h3>Напиши мне</h3>
 <a href="https://t.me/Bulat_Khisamov"><img src="https://eam.su/wp-content/uploads/tg.png" alt="telegram" height=50/></a>
 
